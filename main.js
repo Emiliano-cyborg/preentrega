@@ -67,7 +67,7 @@ function destino() {
             alert("Tu vuelo a Madrid son $455000")
             coste += 455000
             break;
-        case "Maimi":
+        case "Miami":
                 alert("Tu vuelo a Maimi son $266500")            
             coste += 266500
             break;
